@@ -6,4 +6,4 @@ const cartText = `
   </div>
 `;
 
-document.querySelector('#car-dev').innerHTML = cartText;
+document.querySelector('#cart-dev').innerHTML = cartText;
